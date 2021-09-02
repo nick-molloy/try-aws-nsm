@@ -1,5 +1,5 @@
 This is a try out project for AWS.
-Primary owner/contributor: N.Molloy
+Primary owner/contributor: N.Molloy, Community School of Naples
 
 ## Available Scripts
 
