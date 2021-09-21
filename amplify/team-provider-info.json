@@ -10,6 +10,11 @@
       "StackName": "amplify-tryawsnsm-dev-141448",
       "StackId": "arn:aws:cloudformation:us-east-1:768007369978:stack/amplify-tryawsnsm-dev-141448/a8fede00-10d0-11ec-b8d3-0a9bf4500c63",
       "AmplifyAppId": "d1b07sixt5bbfv"
+    },
+    "categories": {
+      "auth": {
+        "tryawsnsm562843f7": {}
+      }
     }
   }
 }
